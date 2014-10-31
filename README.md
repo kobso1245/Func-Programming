@@ -1,1 +1,1 @@
-Some python problems
+Functional programming problems
